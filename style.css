@@ -1,9 +1,8 @@
-﻿body{margin-left: 2rem;font-size: 1.25rem;background-color:#efefef;}
+﻿body{margin-left: 2rem;font-size: 1.1rem;background-color:#efefef;font-family: "Noto Sans TC", "Times New Roman";}
 
 
-/* 20200703 處理手機版顯示條文內容有表格的內容時跑版的問題 */
 @font-face {
-    font-family: "KaiTi";
+    font-family: "文鼎楷體_M", "Times New Roman";
 }
 
 
